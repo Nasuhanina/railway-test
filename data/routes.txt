@@ -1,0 +1,8 @@
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_color,route_text_color,fare_type
+AG,rapidkl,AGL,LRT Ampang Line,Ampang ~ Chan Sow Lin,1,e57200,FFFFFF,
+KJ,rapidkl,KJL,LRT Kelana Jaya Line,Gombak ~ Putra Heights,1,D50032,FFFFFF,
+PH,rapidkl,SPL,LRT Sri Petaling Line,Putra Height ~ Sentul Timur,1,76232f,FFFFFF,
+KGL,rapidkl,KGL,MRT Kajang Line,Kwasa Damansara ~ Kajang,1,047940,FFFFFF,
+PYL,rapidkl,PYL,MRT Putrajaya Line,Putrajaya ~ Kwasa Damansara,1,FFCD00,FFFFFF,
+MR,rapidkl,MRL,KL Monorail Line,Titiwangsa ~ KL Sentral,1,84bd00,FFFFFF,
+BRT,rapidkl,BRT,BRT Sunway Line,Sunway-Setia Jaya ~ USJ 7,0,115740,FFFFFF,
